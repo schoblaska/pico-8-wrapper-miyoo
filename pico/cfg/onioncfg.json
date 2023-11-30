@@ -3,7 +3,7 @@
     "A":"Z",
     "B":"X",
     "X":"ESCAPE",
-    "Y":"D",
+    "Y":"Z",
     "L1":"D",
     "L2":"D",
     "R1":"D",
@@ -14,7 +14,6 @@
     "DownDpad":"DOWN",
     "Start":"RETURN",
     "Select":"D",
-    "Menu":"D"
   },
   "mouse":{
     "scaleFactor":1,
